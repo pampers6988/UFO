@@ -1,8 +1,11 @@
 Overview of the analysis:
+
+
 To improve Dana’s webpage and dynamic table, filters for multiple criteria were added using javascript. Users can now filter for UFO sitings by filtering any combination of the city, state, country, and shape.
 
 
 Results:
+
 To perform a search users can select one or multiple criteria. Users have the ability to search by a particular date to see 
 
 For instance, A user wants to know how many  "Unknown" shapes there were on 1/1/2010. The users selects "unknown" in the shaps drop down, click the filter table button and the following data will appear:
@@ -15,7 +18,10 @@ The search can be further refined by adding additional filter criteria such as "
 
 Clicking on Filter Search will clear the table data
 
+
 Summary:
+
+
 There are several drawbacks to the website. 
 
 One draw back of the design is that when one enters a search by a particular date, the incidents appear in chronological order, sorted by the date requested. 
