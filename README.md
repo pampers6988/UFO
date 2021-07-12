@@ -32,7 +32,7 @@ One draw back of the design is that when one enters a search by a particular dat
 Another drawback is that the date field is required in order to perform a search. If the date is blank, and a user clicks on "filter table" no results populate in the table.
 
 Suggest rewriting the javascript to 
-1. Provide all data if a user does not enter a "date"
-2. Only provide the data for the requested date when filtering the data
+1. The amount of data that could potentially be returned may be really large. To give users who may want to look a certian period of time, make changes to the date field to provide "date range" selection (i.e. bewtween xxx and yyy)
+3. Make coding changes to date filter to only populate the table with data for the requested date
 
 
