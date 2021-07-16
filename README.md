@@ -1,10 +1,10 @@
-Overview of the analysis:
+#Overview of the analysis:
 
 
 To improve Dana’s webpage and dynamic table, filters for multiple criteria were added using javascript. Users can now filter for UFO sitings by filtering any combination of the city, state, country, and shape.
 
 
-Results:
+##Results:
 
 To perform a search users can select one or multiple criteria. Users have the ability to search by a particular date to see 
 
@@ -19,7 +19,7 @@ The search can be further refined by adding additional filter criteria such as "
 Clicking on Filter Search will clear the table data
 
 
-Summary:
+##Summary:
 
 
 There are several drawbacks to the website. 
